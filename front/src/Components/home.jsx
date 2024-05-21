@@ -4,7 +4,6 @@ import axios from 'axios';
 import { ToastContainer, toast } from 'react-toastify';
 import link from './link';
 import 'react-toastify/dist/ReactToastify.css';
-import './home.css';
 import { CiChat2 } from 'react-icons/ci';
 import Naavbar from './navbar';
 import { useRef } from 'react';
